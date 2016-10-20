@@ -1,0 +1,19 @@
+		<script>
+	$(document).ready(function(){
+		console.log("Hello");
+		$('#userReg').click(function(event){
+			var myFirstName = $('#first_name').val();
+			var myLastName = $('#last_name').val();
+			var contact = $('#telephone').val();
+			var email = $('#email').val();
+			console.log(myFirstName);
+			console.log(myLastName);
+			console.log(contact);
+			console.log(email);
+			var myObj = {fname:myFirstName,lname:myLastName,phone:contact,mail:email};
+			console.log(myObj);
+			//event.preventDefault();
+			//window.location.href = "http://localhost:8080/CTOCapabilities/add";
+		});
+	});
+	</script>

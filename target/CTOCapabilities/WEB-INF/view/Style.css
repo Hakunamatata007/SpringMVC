@@ -1,0 +1,13 @@
+@CHARSET "ISO-8859-1";
+.header{
+	background:blue;
+	font-size:medium;
+	color:white;
+	font-family: serif;
+}
+
+#logo{
+	align: "left";
+	top-margin:50px;
+	left-margin:50px;
+}

@@ -1,0 +1,51 @@
+@CHARSET "ISO-8859-1";
+.header{
+	text-align:center;
+	padding-top: 7px;
+	margin-top:0px;
+	background:blue;
+	height: 120px;
+	font-size:small;
+	color:white;
+	font-family: serif;
+	
+}
+.mainDiv
+{
+	background-color:"yellow";
+}
+#logo{
+
+	float:left;
+	margin-left:10px;
+	margin-top:10px;
+	width: 100px;
+	height:100px;
+	background-color: white;
+	position: relative;
+}
+
+.bgcolor
+{
+	background-color : yellow;
+}
+#aligning{
+	width:65%;
+}
+.menu{
+	float:left;
+	background-color:#66ffff;
+	width: 250px;
+	height:700px;
+	float:left;
+	clear:both;
+}
+
+.btn{
+	font-family:serif;
+	font-size:10px;
+}
+.diksha
+{
+	font-size:6;
+}

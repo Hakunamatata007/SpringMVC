@@ -1,0 +1,6 @@
+com.mindtree.controller
+com.mindtree.dao
+com.mindtree.daoImpl
+com.mindtree.entity
+com.mindtree.service
+com.mindtree.serviceImpl

@@ -1,0 +1,5 @@
+projectKey=com.mindtree.employee:CTOCapabilities
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.mindtree.employee:CTOCapabilities
+ceTaskId=AVfcUu9HWFgGrngX-Iz1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVfcUu9HWFgGrngX-Iz1
